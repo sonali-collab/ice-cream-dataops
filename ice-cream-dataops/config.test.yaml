@@ -8,6 +8,8 @@ environment:
     - modules/bootcamp/use_cases/oee
 
 variables:
+  ice_cream_factory_data_external_id: icecream-factory-data
+  overall_equipment_effectiveness_data_set_external_id: oee_data_set_external_id
   modules:
     bootcamp:
       # Variables shared by modules
